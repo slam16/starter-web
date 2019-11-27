@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Cristian
 
 # TECHNOLOGY COLOPHON
 
